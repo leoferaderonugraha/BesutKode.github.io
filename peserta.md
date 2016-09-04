@@ -20,3 +20,4 @@
 | hanstananda | hanstananda | http://hanstananda.github.io ||
 | nathaniasaphira | nathaniasaphira | nathaniasaphira.github.io | |
 | magicpotatoes2 | magicpotatoes2 | https://magicpotatoes2.github.io | |
+| leoferaderonugraha | leoferaderonugraha | https://leoferaderonugraha.github.io | Sudah, soal nomor 1,3,4 |
